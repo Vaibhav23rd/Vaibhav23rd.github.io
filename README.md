@@ -7,8 +7,8 @@ A responsive Flutter-based portfolio webpage showcasing my projects as a Flutter
 - **Project Showcase**: Displays projects with images, descriptions, technologies, and GitHub links.
 - **Interactive UI**: Includes clickable GitHub links, a contact section with email, and a footer.
 - **Optimized Performance**: Uses `BoxFit.cover` for images and `TextOverflow.ellipsis` to prevent overflow.
-- **Deployment**: Hosted on GitHub Pages at [vaibhav23rd.github.io/portfolio](https://vaibhav23rd.github.io/portfolio).
-
+- **Deployment**: Hosted on GitHub Pages at [https://vaibhav23rd.github.io/](https://vaibhav23rd.github.io/).
+  
 ## Screenshot
 ![Portfolio Screenshot](screenshots/protfolio.png)
 
